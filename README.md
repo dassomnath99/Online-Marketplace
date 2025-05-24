@@ -6,7 +6,6 @@ A full-stack online marketplace application that allows users to browse, search,
 
 - **User Authentication**: Secure signup and login system to protect user data.
 - **Product Listings**: Sellers can post items with images, descriptions, and pricing details.
-- **Search & Filters**: Dynamic search functionality to help buyers find products easily.
 - **Shopping Cart**: Smooth cart management with SQLite3 database integration.
 - **Responsive Design**: Tailwind CSS ensures a mobile-friendly and modern interface.
 
