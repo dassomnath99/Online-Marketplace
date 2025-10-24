@@ -4,11 +4,7 @@ from item.models import Item
 from . models import Conversation
 from .forms import ConversationMessageForm
 # Create your views here.
-<<<<<<< HEAD
-
-=======
 @login_required
->>>>>>> 41a7f2e (retry-deploy)
 def new_conversation(request, item_pk):
     item = get_object_or_404(Item, pk=item_pk)
 
